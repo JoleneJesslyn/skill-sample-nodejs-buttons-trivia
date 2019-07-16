@@ -106,68 +106,116 @@ module.exports = Object.freeze({
            question: 'Liu Kang\'s Life By the River, 1975, depicts daily life in a Kampong with this material?',
            answers: ['oil paint', 'acrylic paint', 'batik technique', 'watercolor paint'],
            correct_answer: 'oil paint'
+      },
+      {
+           index: 11,
+           question: '"Siapa nama kamu?" written on the blackboard in Chwa Mia Tee\'s National Language Class, 1959, means?',
+           answers: ['What time is it?', 'When do we eat?', 'Where are you going?', 'What is your name?'],
+           correct_answer: 'What is your name?'
+      },
+      {
+           index: 12,
+           question: 'Which of the following items is not seen in Chwa Mia Tee\'s Epic Poem of Malaysia, 1955?',
+           answers: ['a cup', 'a mosquito', 'a newspaper', 'a watch'],
+           correct_answer: 'a newspaper'
+      },
+      {
+           index: 13,
+           question: 'What is the most depicted subject matterin the DBS Singapore Gallery?',
+           answers: ['Self Portraits', 'The Singapore River', 'Kampong Living', 'Forests'],
+           correct_answer: 'The Singapore River'
+      },
+      {
+           index: 14,
+           question: 'Liu Kang\'s Souri, 1953, depicts a woman from this country?',
+           answers: ['Cambodia', 'Philippines', 'Indonesia', 'Singapore'],
+           correct_answer: 'Indonesia'
       }
   ],
     questions_en_GB: [
       {
-          index: 1,
-          question: 'What is the name for a group of lions?',
-          answers: ['pack', 'pride', 'den', 'frat'],
-          correct_answer: 'pride'
+           index: 1,
+           question: 'Which artist created a painting of her husband?',
+           answers: ['Georgette Chen', 'Han Sai Por', 'Yoko Ono', 'Amanda Heng'],
+           correct_answer: 'Georgette Chen'
+       },
+       {
+           index: 2,
+           question: 'Which artist created a painting with faceless figures?',
+           answers: ['Tang Da Wu', 'Liu Kang', 'Chwa Mia Tee', 'Georgette Chen'],
+           correct_answer: 'Liu Kang'
+       },
+       {
+           index: 3,
+           question: 'How many ladies were feeding the ducks in the work, Life by the River, Liu Kang?',
+           answers: ['two', 'five', 'three', 'seven'],
+           correct_answer: 'two'
+       },
+       {
+           index: 4,
+           question: 'What did the man wear on his head in the painting, Self Portrait, by Tchang Ju Chi?',
+           answers: ['A baseball cap', 'A beret', 'A bandana','a fedora'],
+           correct_answer: 'A beret'
+       },
+       {
+           index: 5,
+           question: 'Who sold rambutans in the painting, East Coast Vendor, by Georgette Chen?',
+           answers: ['A Malaysian lady', 'everyone', 'the children', 'no one'],
+           correct_answer: 'A Malaysian lady'
+       },
+       {
+           index: 6,
+           question: 'In the Portrait of Eugene Chen, what was the man holding in his hand?',
+           answers: ['A phone', 'A drink', 'A newspaper', 'A book'],
+           correct_answer: 'A book'
+       },
+       {
+           index: 7,
+           question: 'What fruits can be found in the painting which has a frame made of bamboo?',
+           answers: ['Grapes and Bananas', 'Oranges and Apples', 'Blueberries and Pineapples'],
+           correct_answer: 'Oranges and Apples'
+       },
+       {
+           index: 8,
+           question: 'Which of the following was NOT what the National Gallery used to be?',
+           answers: ['Supreme Court', 'Port', 'Rice Field', 'City Hall'],
+           correct_answer: 'Rice Field'
       },
       {
-          index: 2,
-          question: 'What is the only type of bear native to South America?',
-          answers: ['brown bear', 'kodiac', 'giant panda', 'spectacled bear'],
-          correct_answer: 'spectacled bear'
+           index: 9,
+           question: 'How many houses are there in Liu Kang\'s Life by the River, 1975?',
+           answers: ['two', 'four', 'seven', 'one'],
+           correct_answer: 'four'
       },
       {
-          index: 3,
-          question: 'What type of animal is a seahorse?',
-          answers: ['crustacean', 'arachnid', 'fish', 'shell'],
-          correct_answer: 'fish'
+           index: 10,
+           question: 'Liu Kang\'s Life By the River, 1975, depicts daily life in a Kampong with this material?',
+           answers: ['oil paint', 'acrylic paint', 'batik technique', 'watercolor paint'],
+           correct_answer: 'oil paint'
       },
       {
-          index: 4,
-          question: 'What color are zebras?',
-          answers: ['white with black stripes', 'black with white stripes'],
-          correct_answer: 'black with white stripes'
+           index: 11,
+           question: '"Siapa nama kamu?" written on the blackboard in Chwa Mia Tee\'s National Language Class, 1959, means?',
+           answers: ['What time is it?', 'When do we eat?', 'Where are you going?', 'What is your name?'],
+           correct_answer: 'What is your name?'
       },
       {
-          index: 5,
-          question: 'What is the fastest water animal?',
-          answers: ['porpoise', 'sailfish', 'flying fish', 'tuna'],
-          correct_answer: 'sailfish'
+           index: 12,
+           question: 'Which of the following items is not seen in Chwa Mia Tee\'s Epic Poem of Malaysia, 1955?',
+           answers: ['a cup', 'a mosquito', 'a newspaper', 'a watch'],
+           correct_answer: 'a newspaper'
       },
       {
-          index: 6,
-          question: 'What is the only venomous snake found in Britain?',
-          answers: ['cobra', 'coral snake', 'copperhead', 'adder'],
-          correct_answer: 'adder'
+           index: 13,
+           question: 'What is the most depicted subject matterin the DBS Singapore Gallery?',
+           answers: ['Self Portraits', 'The Singapore River', 'Kampong Living', 'Forests'],
+           correct_answer: 'The Singapore River'
       },
       {
-          index: 7,
-          question: 'What is a female donkey called?',
-          answers: ['joey', 'jenny', 'janet'],
-          correct_answer: 'jenny'
-      },
-      {
-          index: 8,
-          question: 'What land mammal other than man has the longest lifespan?',
-          answers: ['blue whale', 'dolphin', 'elephant', 'orangutan'],
-          correct_answer: 'elephant'
-      },
-      {
-          index: 9,
-          question: 'Eskimos call what kind of creature a nanook?',
-          answers: ['penguin', 'narwhal', 'polar bear', 'caribou'],
-          correct_answer: 'polar bear'
-      },
-      {
-          index: 10,
-          question: 'Lupus is the Latin name for what animal?',
-          answers: ['dog', 'cat', 'wolf', 'fox'],
-          correct_answer: 'wolf'
+           index: 14,
+           question: 'Liu Kang\'s Souri, 1953, depicts a woman from this country?',
+           answers: ['Cambodia', 'Philippines', 'Indonesia', 'Singapore'],
+           correct_answer: 'Indonesia'
       }
   ],
   questions_de_DE: [
