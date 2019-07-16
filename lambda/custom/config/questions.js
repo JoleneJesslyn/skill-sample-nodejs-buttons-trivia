@@ -110,8 +110,8 @@ module.exports = Object.freeze({
       {
            index: 11,
            question: '"Siapa nama kamu?" written on the blackboard in Chwa Mia Tee\'s National Language Class, 1959, means?',
-           answers: ['What time is it?', 'When do we eat?', 'Where are you going?', 'What is your name?'],
-           correct_answer: 'What is your name?'
+           answers: ['What time is it', 'When do we eat', 'Where are you going', 'What is your name'],
+           correct_answer: 'What is your name'
       },
       {
            index: 12,
@@ -121,7 +121,7 @@ module.exports = Object.freeze({
       },
       {
            index: 13,
-           question: 'What is the most depicted subject matterin the DBS Singapore Gallery?',
+           question: 'What is the most depicted subject matter in the DBS Singapore Gallery?',
            answers: ['Self Portraits', 'The Singapore River', 'Kampong Living', 'Forests'],
            correct_answer: 'The Singapore River'
       },
@@ -196,8 +196,8 @@ module.exports = Object.freeze({
       {
            index: 11,
            question: '"Siapa nama kamu?" written on the blackboard in Chwa Mia Tee\'s National Language Class, 1959, means?',
-           answers: ['What time is it?', 'When do we eat?', 'Where are you going?', 'What is your name?'],
-           correct_answer: 'What is your name?'
+           answers: ['What time is it', 'When do we eat', 'Where are you going', 'What is your name'],
+           correct_answer: 'What is your name'
       },
       {
            index: 12,
@@ -207,7 +207,7 @@ module.exports = Object.freeze({
       },
       {
            index: 13,
-           question: 'What is the most depicted subject matterin the DBS Singapore Gallery?',
+           question: 'What is the most depicted subject matter in the DBS Singapore Gallery?',
            answers: ['Self Portraits', 'The Singapore River', 'Kampong Living', 'Forests'],
            correct_answer: 'The Singapore River'
       },
