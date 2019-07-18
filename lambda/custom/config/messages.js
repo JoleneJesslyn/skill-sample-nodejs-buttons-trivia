@@ -156,7 +156,7 @@ const messages = {
         outputSpeech: "Alright. That was the last question."
       },
       'PLAY_GAME_MID_GAME': {
-        outputSpeech: "Ok! Let's keep going. " +
+        outputSpeech: "Ok! Here's the question. " +
           "We are on question {{current_question}}!"
       },
       'ANSWER_TIME_OUT_DURING_PLAY': {
